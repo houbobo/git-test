@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("你好世界");
         System.out.println("你好世界");
         System.out.println("push");
+        System.out.println("来自github端的修改");
     }
 }
